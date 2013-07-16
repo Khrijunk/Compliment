@@ -22,5 +22,5 @@ string Ask()
 
 void Respond(string answer)
 {
-	cout << "Your " << answer << " is awesome!" << endl;
+	cout << "Your " << answer << " is excellent!" << endl;
 }
